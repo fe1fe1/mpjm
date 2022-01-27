@@ -21,7 +21,7 @@ First install CMake.
 
 Then in terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
 
-- Inside build:
+- Inside build folder:
 ```
 cd ~/mpjm/build
 ```
