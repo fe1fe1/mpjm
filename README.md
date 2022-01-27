@@ -21,7 +21,7 @@ Once finished, each sublevel guarantees +1 life on the next sublevel. Also, when
 
 It requires having installed the **Graphics** and **Audio** SFML libraries. Also, in this case, we use CMake to handle the make files.
 
-Then in terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
+In terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
 
 - Inside build folder:
 ```
