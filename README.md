@@ -19,4 +19,17 @@ Once finished, each sublevel guarantees +1 life on the next sublevel. Also, when
 
 First install CMake.
 
-Then in terminal, in the /build folder inside the project folder, run the ̀ mkae ̀ command in order to build it:
+Then in terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
+
+-Inside build:
+```
+cd ~/mpjm/build
+```
+-Make the build:
+```
+make
+```
+-Now run it:
+```
+./mpjm
+```
