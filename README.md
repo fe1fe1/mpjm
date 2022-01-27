@@ -1,3 +1,2 @@
-# MPJM 
-#### (MiPrimerJuegoMal)
+# MPJM (MiPrimerJuegoMal)
 
