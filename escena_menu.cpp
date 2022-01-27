@@ -6,7 +6,7 @@
 #include <iostream>
 
 escena_menu::escena_menu() {
-	if(!soundTrack.openFromFile("assets/soundTracks/uundertale_fallen_down.ogg")){
+	if(!soundTrack.openFromFile("assets/soundTracks/undertale_fallen_down.ogg")){
 		std::cerr<<"ERROR: No se encontro el undertale_fallen_down.ogg en la ruta [assets/soundTracks/undertale_fallen_down.ogg]"<<std::endl;
 	}
 	soundTrack.setVolume(40);

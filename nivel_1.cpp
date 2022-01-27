@@ -18,7 +18,7 @@ nivel_1::nivel_1() {
 	reboteSound.setVolume(25);
 	//-----------------------------------------------------------------------/
 	// Cargar sonidos
-	if(!soundTrack.openFromFile("assets/soundTracks/ssong_of_storms.ogg")){
+	if(!soundTrack.openFromFile("assets/soundTracks/song_of_storms.ogg")){
 		std::cerr<<"ERROR: No se encontro el song_of_storms.ogg en la ruta [assets/soundTracks/song_of_storms.ogg]"<<std::endl;
 	}
 	soundTrack.setVolume(200);
