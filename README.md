@@ -1,4 +1,4 @@
-# MPJM (MiPrimerJuegoMal)
+# MPJM (Mi Primer Juego Mal)
 
 A simple 2d game, a personal project for an university assignment.
 
