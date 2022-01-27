@@ -1,6 +1,8 @@
 # MPJM (MiPrimerJuegoMal)
 
-A simple 2d game, a personal project for an university assignment. 
+A simple 2d game, a personal project for an university assignment.
+
+Made with C++/SFML library.
 
 ## Introduction & explanation:
 
@@ -17,7 +19,7 @@ Once finished, each sublevel guarantees +1 life on the next sublevel. Also, when
 
 ### Build and run:
 
-First install CMake.
+It requires having installed the **Graphics** and **Audio** SFML libraries. Also, in this case, we use CMake to handle the make files.
 
 Then in terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
 
