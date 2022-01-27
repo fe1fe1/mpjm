@@ -31,7 +31,7 @@ cd ~/mpjm/build
 ```
 make
 ```
-- Now run it:
+- Run it:
 ```
 ./mpjm
 ```
