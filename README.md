@@ -17,21 +17,4 @@ Killing enemies gives points, the amount of points gained increases with the ene
 
 Once finished, each sublevel guarantees +1 life on the next sublevel. Also, when finished, the lifes counter on that sublevel gets multiplied and converted in bonus points (the +1 life reward it's not included in the sum).
 
-### Build and run:
 
-It requires having installed the **Graphics** and **Audio** SFML libraries. Also, in this case, we use CMake to handle the make files.
-
-In terminal, in the /build folder inside the project folder, run the `make` command in order to build it:
-
-- Inside build folder:
-```
-cd ~/mpjm/build
-```
-- Make the build:
-```
-make
-```
-- Run it:
-```
-./mpjm
-```
